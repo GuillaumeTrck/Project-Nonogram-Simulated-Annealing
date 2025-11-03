@@ -68,14 +68,9 @@ See the accompanying report for detailed tables and figures.
 - To change the input file, edit the `filename` variable in `src/nonogram_solver.cpp`.
 - Consider adding a small example `.pti` and the corresponding `.pto` output for quick validation by users.
 
-##Sources
-Bibliographie
-[1] “Theory — nonogram solver,” Stevocity.me.uk, 2025. [Online]. Available : https://stevocity.
-me.uk/nonogram/theory
-[2] C. aux projets Wikimedia, “méthode d’optimisation,” Wikipedia.org, 08 2004. [Online].
-Available : https://fr.wikipedia.org/wiki/Recuit_simul%C3%A9
-[3] lb@laurentbloch.org and W. de, “Algorithme de needleman et wunsch - [site www de
-laurent bloch],” Laurentbloch.net, 2019. [Online]. Available : https://www.laurentbloch.net/
-MySpip3/Algorithme-de-Needleman-et-Wunsch
-[4] “Needleman-wunsch algorithm in c++ - javatpoint,” www.javatpoint.com, 2025. [Online].
-Available : https://www.javatpoint.com/needleman-wunsch-algorithm-in-cpp
+## Sources
+
+- [1] “Theory — nonogram solver,” Stevocity.me.uk, 2025. [Online]. Available : https://stevocity. me.uk/nonogram/theory
+- [2] C. aux projets Wikimedia, “méthode d’optimisation,” Wikipedia.org, 08 2004. [Online]. Available : https://fr.wikipedia.org/wiki/Recuit_simul%C3%A9
+- [3] lb@laurentbloch.org and W. de, “Algorithme de needleman et wunsch - [site www de laurent bloch],” Laurentbloch.net, 2019. [Online]. Available : https://www.laurentbloch.net/ MySpip3/Algorithme-de-Needleman-et-Wunsch
+- [4] “Needleman-wunsch algorithm in c++ - javatpoint,” www.javatpoint.com, 2025. [Online]. Available : https://www.javatpoint.com/needleman-wunsch-algorithm-in-cpp
